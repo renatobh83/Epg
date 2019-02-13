@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Bloomberg">
+    <display-name lang="pt">Bloomberg</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redegospel.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+    <icon src="http://www.lineup.tv.br/canais/conexaobr.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvtribuna-pe.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvgazeta-al.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <icon src="http://www.lineup.tv.br/canais/foxsports.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvvitoria.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT Series">
+    <display-name lang="pt">TNT Series</display-name>
+    <icon src="http://www.lineup.tv.br/canais/bandsports.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <icon src="http://www.lineup.tv.br/canais/agrobrasiltv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190213002500 -0400" stop="20190213021500 -0400" channel="Telecine Premium">
+    <title lang="pt">Distúrbio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213021500 -0400" stop="20190213040000 -0400" channel="Telecine Premium">
+    <title lang="pt">2: 22</title>
+    <sub-title lang="pt">Encontro Marcado</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213040000 -0400" stop="20190213054000 -0400" channel="Telecine Premium">
+    <title lang="pt">Protesto Silencioso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213054000 -0400" stop="20190213071500 -0400" channel="Telecine Premium">
+    <title lang="pt">Paixão Radical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213071500 -0400" stop="20190213085500 -0400" channel="Telecine Premium">
+    <title lang="pt">Um Conto de Sereia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213085500 -0400" stop="20190213111500 -0400" channel="Telecine Premium">
+    <title lang="pt">Trama Fantasma</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213111500 -0400" stop="20190213130000 -0400" channel="Telecine Premium">
+    <title lang="pt">O Último Assalto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213130000 -0400" stop="20190213144500 -0400" channel="Telecine Premium">
+    <title lang="pt">A Outra Filha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213144500 -0400" stop="20190213162500 -0400" channel="Telecine Premium">
+    <title lang="pt">Condorito: O Filme</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213162500 -0400" stop="20190213180000 -0400" channel="Telecine Premium">
+    <title lang="pt">Uma Noite de Loucuras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213180000 -0400" stop="20190213195000 -0400" channel="Telecine Premium">
+    <title lang="pt">Chocante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213195000 -0400" stop="20190213220000 -0400" channel="Telecine Premium">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213220000 -0400" stop="20190213235000 -0400" channel="Telecine Premium">
+    <title lang="pt">Honey 4</title>
+    <sub-title lang="pt">No Pulsar do Ritmo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213235000 -0400" stop="20190214015000 -0400" channel="Telecine Premium">
+    <title lang="pt">Milagres do Paraíso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213000500 -0400" stop="20190213015500 -0400" channel="Telecine Action">
+    <title lang="pt">O Ataque dos Vermes Malditos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213015500 -0400" stop="20190213034500 -0400" channel="Telecine Action">
+    <title lang="pt">Canibais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213034500 -0400" stop="20190213052500 -0400" channel="Telecine Action">
+    <title lang="pt">Minha Esposa Aventureira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213052500 -0400" stop="20190213071500 -0400" channel="Telecine Action">
+    <title lang="pt">Faça a Sua Jogada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213071500 -0400" stop="20190213091500 -0400" channel="Telecine Action">
+    <title lang="pt">Guerra Fria II</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213091500 -0400" stop="20190213113000 -0400" channel="Telecine Action">
+    <title lang="pt">O Retorno da Múmia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213113000 -0400" stop="20190213132000 -0400" channel="Telecine Action">
+    <title lang="pt">Plano de Voo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213132000 -0400" stop="20190213153000 -0400" channel="Telecine Action">
+    <title lang="pt">O Grande Mestre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213153000 -0400" stop="20190213172000 -0400" channel="Telecine Action">
+    <title lang="pt">Penalidade Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213172000 -0400" stop="20190213195500 -0400" channel="Telecine Action">
+    <title lang="pt">007</title>
+    <sub-title lang="pt">Operação Skyfall</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213195500 -0400" stop="20190213220000 -0400" channel="Telecine Action">
+    <title lang="pt">Extermínio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213220000 -0400" stop="20190214010000 -0400" channel="Telecine Action">
+    <title lang="pt">O Hobbit: Uma Jornada Inesperada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213020500 -0400" stop="20190213035000 -0400" channel="Telecine Touch">
+    <title lang="pt">A Origem da Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213035000 -0400" stop="20190213053500 -0400" channel="Telecine Touch">
+    <title lang="pt">Punhos de Sangue</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213053500 -0400" stop="20190213073000 -0400" channel="Telecine Touch">
+    <title lang="pt">A Onda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213073000 -0400" stop="20190213091000 -0400" channel="Telecine Touch">
+    <title lang="pt">A Noite É Uma Criança!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213091000 -0400" stop="20190213104500 -0400" channel="Telecine Touch">
+    <title lang="pt">Dia de Casamento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213104500 -0400" stop="20190213124000 -0400" channel="Telecine Touch">
+    <title lang="pt">O Grande Milagre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213124000 -0400" stop="20190213144000 -0400" channel="Telecine Touch">
+    <title lang="pt">Bem Vindo À Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213144000 -0400" stop="20190213162500 -0400" channel="Telecine Touch">
+    <title lang="pt">Tal Mãe, Tal Filha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213162500 -0400" stop="20190213181500 -0400" channel="Telecine Touch">
+    <title lang="pt">Um Romance na Alta Moda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213181500 -0400" stop="20190213201000 -0400" channel="Telecine Touch">
+    <title lang="pt">O Outro Lado do Paraíso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213201000 -0400" stop="20190213220000 -0400" channel="Telecine Touch">
+    <title lang="pt">Ensina-me o Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213220000 -0400" stop="20190214000000 -0400" channel="Telecine Touch">
+    <title lang="pt">Um Homem de Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213013500 -0400" stop="20190213033000 -0400" channel="Telecine Fun">
+    <title lang="pt">Heróis de Ressaca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213033000 -0400" stop="20190213051000 -0400" channel="Telecine Fun">
+    <title lang="pt">Alibi.com</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213051000 -0400" stop="20190213071500 -0400" channel="Telecine Fun">
+    <title lang="pt">Duelo de Dinastias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213071500 -0400" stop="20190213091500 -0400" channel="Telecine Fun">
+    <title lang="pt">Iron Will: O Grande Desafio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213091500 -0400" stop="20190213105000 -0400" channel="Telecine Fun">
+    <title lang="pt">Um Lobo em Pele de Cordeiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213105000 -0400" stop="20190213124500 -0400" channel="Telecine Fun">
+    <title lang="pt">Heróis Fora de Órbita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213124500 -0400" stop="20190213143500 -0400" channel="Telecine Fun">
+    <title lang="pt">Ghost Town</title>
+    <sub-title lang="pt">Um Espírito Atrás de Mim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213143500 -0400" stop="20190213162000 -0400" channel="Telecine Fun">
+    <title lang="pt">Aprovados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213162000 -0400" stop="20190213181500 -0400" channel="Telecine Fun">
+    <title lang="pt">O Que Esperar Quando Você Está Esperando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213181500 -0400" stop="20190213201000 -0400" channel="Telecine Fun">
+    <title lang="pt">Eu te Amo, Beth Cooper</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213201000 -0400" stop="20190213220000 -0400" channel="Telecine Fun">
+    <title lang="pt">Doidas e Santas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213220000 -0400" stop="20190214000000 -0400" channel="Telecine Fun">
+    <title lang="pt">Mogli: O Menino Lobo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213012500 -0400" stop="20190213031000 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Lady Bird</title>
+    <sub-title lang="pt">A Hora de Voar</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213031000 -0400" stop="20190213045500 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Stratton</title>
+    <sub-title lang="pt">Forças Especiais</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213045500 -0400" stop="20190213065500 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Honra ao Mérito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213065500 -0400" stop="20190213083500 -0400" channel="Telecine Pipoca">
+    <title lang="pt">A Garota Perfeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213083500 -0400" stop="20190213103500 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Victoria e Abdul: O Confidente da Rainha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213103500 -0400" stop="20190213121500 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Altas Expectativas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213121500 -0400" stop="20190213143000 -0400" channel="Telecine Pipoca">
+    <title lang="pt">O Destino de uma Nação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213143000 -0400" stop="20190213163000 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Sangue de Aço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213163000 -0400" stop="20190213182500 -0400" channel="Telecine Pipoca">
+    <title lang="pt">O Passageiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213182500 -0400" stop="20190213200500 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Um Novo Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213200500 -0400" stop="20190213202000 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Meu Malvado Favorito Apresenta: Loucuras dos Minions</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213202000 -0400" stop="20190213220000 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Meu Malvado Favorito 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213220000 -0400" stop="20190213234500 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Uma Quase Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213234500 -0400" stop="20190214012500 -0400" channel="Telecine Pipoca">
+    <title lang="pt">Perigo Próximo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213021000 -0400" stop="20190213041000 -0400" channel="Telecine Cult">
+    <title lang="pt">Dheepan: O Refúgio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213041000 -0400" stop="20190213063500 -0400" channel="Telecine Cult">
+    <title lang="pt">Twin Peaks</title>
+    <sub-title lang="pt">Os Últimos Dias de Laura Palmer</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213063500 -0400" stop="20190213084000 -0400" channel="Telecine Cult">
+    <title lang="pt">Albergue Espanhol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213084000 -0400" stop="20190213102000 -0400" channel="Telecine Cult">
+    <title lang="pt">As Novas Aventuras do Fusca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213102000 -0400" stop="20190213125000 -0400" channel="Telecine Cult">
+    <title lang="pt">Luzes da Ribalta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213125000 -0400" stop="20190213145000 -0400" channel="Telecine Cult">
+    <title lang="pt">Bravura Indômita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213145000 -0400" stop="20190213155500 -0400" channel="Telecine Cult">
+    <title lang="pt">Ronda de Sangue</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213155500 -0400" stop="20190213174000 -0400" channel="Telecine Cult">
+    <title lang="pt">Mulher Nota 1000</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213174000 -0400" stop="20190213193500 -0400" channel="Telecine Cult">
+    <title lang="pt">Love Story</title>
+    <sub-title lang="pt">Uma História de Amor</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213193500 -0400" stop="20190213220000 -0400" channel="Telecine Cult">
+    <title lang="pt">A Felicidade Não Se Compra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190213220000 -0400" stop="20190214002500 -0400" channel="Telecine Cult">
+    <title lang="pt">O Manto Sagrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
