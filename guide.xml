@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190214015000 -0400" stop="20190214033500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Conflitos em Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214033500 -0400" stop="20190214052000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Sem Controle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214052000 -0400" stop="20190214072500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Lutando Por um Sonho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214072500 -0400" stop="20190214090500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Kronos: O Fim da Humanidade?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214090500 -0400" stop="20190214105000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Rei Charles III</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214105000 -0400" stop="20190214123000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Família Desaparecida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214123000 -0400" stop="20190214140500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">As Aventuras de Tadeo 2: O Segredo do Rei Midas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214140500 -0400" stop="20190214155000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Em Busca de Vingança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214155000 -0400" stop="20190214174500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Na Escuridão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214174500 -0400" stop="20190214200500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Piratas do Caribe: A Vingança de Salazar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214200500 -0400" stop="20190214220000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Os Parças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214220000 -0400" stop="20190214234500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">S.M.A.R.T. Chase: Perseguição Explosiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190214234500 -0400" stop="20190215012000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Deserto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215012000 -0400" stop="20190215025000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Medidas Desesperadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215025000 -0400" stop="20190215044000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Distúrbio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215044000 -0400" stop="20190215061000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Sexo, Música e Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215061000 -0400" stop="20190215080500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">A Última Palavra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215080500 -0400" stop="20190215094500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Condorito: O Filme</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215094500 -0400" stop="20190215114500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Nosso Ex-Marido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215114500 -0400" stop="20190215131500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Jantar com Beatriz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215131500 -0400" stop="20190215151500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Milagres do Paraíso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215151500 -0400" stop="20190215172500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215172500 -0400" stop="20190215195500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Logan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215195500 -0400" stop="20190215220000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Atômica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215220000 -0400" stop="20190215233500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Um Lugar Silencioso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190215233500 -0400" stop="20190216020000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Operação Red Sparrow</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216020000 -0400" stop="20190216033000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Uma Noite de Loucuras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216033000 -0400" stop="20190216053500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Três Anúncios Para um Crime</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216053500 -0400" stop="20190216072000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">A Outra Filha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216072000 -0400" stop="20190216085500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Cão Que Ladra Não Morde 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216085500 -0400" stop="20190216105000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Adeus Christopher Robin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216105000 -0400" stop="20190216123500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Chocante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216123500 -0400" stop="20190216144000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">O Doutor da Felicidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216144000 -0400" stop="20190216163000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Honey 4</title>
+    <sub-title lang="pt">No Pulsar do Ritmo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216163000 -0400" stop="20190216180500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Deserto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216180500 -0400" stop="20190216195000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Medo Profundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216195000 -0400" stop="20190216220000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Tomb Raider: A Origem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216220000 -0400" stop="20190216232000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Jurassic World: Reino Ameaçado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190216232000 -0400" stop="20190217011500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Terra Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217011500 -0400" stop="20190217031500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Atômica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217031500 -0400" stop="20190217051000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">A Exceção</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217051000 -0400" stop="20190217065000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">The Little Hours</title>
+    <sub-title lang="pt">A Comédia dos Pecados</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217065000 -0400" stop="20190217082000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Jantar com Beatriz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217082000 -0400" stop="20190217100500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Em Busca de Vingança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217100500 -0400" stop="20190217115000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">S.M.A.R.T. Chase: Perseguição Explosiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217115000 -0400" stop="20190217140000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">The Post</title>
+    <sub-title lang="pt">A Guerra Secreta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217140000 -0400" stop="20190217155000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">De Volta Para Casa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217155000 -0400" stop="20190217173000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Um Lugar Silencioso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217173000 -0400" stop="20190217200500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Kingsman: O Círculo Dourado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217200500 -0400" stop="20190217220000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Verdade ou Desafio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217220000 -0400" stop="20190217235500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Cinquenta Tons de Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190217235500 -0400" stop="20190218015500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Depois Daquela Montanha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218015500 -0400" stop="20190218033000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">O Homem nas Trevas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218033000 -0400" stop="20190218055500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Operação Red Sparrow</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218055500 -0400" stop="20190218075500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Cidade Louca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218075500 -0400" stop="20190218095500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">A Despedida de Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218095500 -0400" stop="20190218114000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Segunda Opinião</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218114000 -0400" stop="20190218135000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Doentes de Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218135000 -0400" stop="20190218152500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Medo Profundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218152500 -0400" stop="20190218173500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Boneco de Neve</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218173500 -0400" stop="20190218194000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Feito na América</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218194000 -0400" stop="20190218220000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Jurassic World: Reino Ameaçado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218220000 -0400" stop="20190218235500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Círculo de Fogo: A Revolta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190218235500 -0400" stop="20190219020000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Assassinato no Expresso do Oriente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219020000 -0400" stop="20190219042500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">All Eyez On Me: A História de Tupac</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219042500 -0400" stop="20190219064500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">A Última Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219064500 -0400" stop="20190219083000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Ficção Científica Volume Um: O Legado de Osiris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219083000 -0400" stop="20190219103000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Batalha Incerta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219103000 -0400" stop="20190219130000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Manchester à Beira-Mar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219130000 -0400" stop="20190219144500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Belle e Sebastian</title>
+    <sub-title lang="pt">A Aventura Continua</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219144500 -0400" stop="20190219162500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Stratton</title>
+    <sub-title lang="pt">Forças Especiais</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219162500 -0400" stop="20190219182000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Terra Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219182000 -0400" stop="20190219202000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Cinquenta Tons de Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219202000 -0400" stop="20190219220000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Uma Quase Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190219220000 -0400" stop="20190220003500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Maze Runner: A Cura Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220003500 -0400" stop="20190220022000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">O Sequestro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220022000 -0400" stop="20190220043000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Boneco de Neve</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220043000 -0400" stop="20190220063000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">O Vendedor Chinês</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220063000 -0400" stop="20190220083500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">The Post</title>
+    <sub-title lang="pt">A Guerra Secreta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220083500 -0400" stop="20190220101500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Journeyman: Fora de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220101500 -0400" stop="20190220120500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">De Volta Para Casa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220120500 -0400" stop="20190220140500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Depois Daquela Montanha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220140500 -0400" stop="20190220163500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Kingsman: O Círculo Dourado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220163500 -0400" stop="20190220183000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Verdade ou Desafio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220183000 -0400" stop="20190220201500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Ninguém Entra, Ninguém Sai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220201500 -0400" stop="20190220220000 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Perigo na Montanha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220220000 -0400" stop="20190220235500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">O Passageiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190220235500 -0400" stop="20190221015500 -0400" channel="Telecine Premium HD">
+    <title lang="pt">Vingança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
